@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Unity-iPhone.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>B433C19D40FAE0CE393F3C0524BBE1D5AA8E0B55</string>
+				<key>dateExpires</key>
+				<string>2019/7/18</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>ZU4MVS66AV.com.daiye.arview</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>ZU4MVS66AV</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>ZU4MVS66AV.com.daiye.arview</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>ProductName.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>d476b8b5-a0e4-4cda-a6c0-5986d9f365ab</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>ZU4MVS66AV</string>
+				<key>name</key>
+				<string>ye dai</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
